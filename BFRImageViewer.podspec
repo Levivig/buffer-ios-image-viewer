@@ -22,4 +22,5 @@ Pod::Spec.new do |s|
     s.requires_arc = true
     s.frameworks = "UIKit", "Photos"
     s.dependency 'PINRemoteImage', '~> 3.0.0-beta.12'
+    s.dependency 'FLAnimatedImage'
 end

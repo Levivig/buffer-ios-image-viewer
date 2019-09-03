@@ -10,6 +10,7 @@
 #import "BFRBackLoadedImageSource.h"
 #import "BFRImageViewerDownloadProgressView.h"
 #import "BFRImageViewerConstants.h"
+#import <FLAnimatedImage.h>
 #import <Photos/Photos.h>
 #import <PhotosUI/PhotosUI.h>
 #import <PINRemoteImage/PINRemoteImage.h>
